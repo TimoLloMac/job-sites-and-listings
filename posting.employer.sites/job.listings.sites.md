@@ -12,6 +12,7 @@ Posting Sites:
 - https://www.doorsopen.co/jobs/
 - https://weworkremotely.com/
 - https://www.jobs.state.nm.us/vosnet/jobbanks/joblist
+- https://jobs.opendatascience.com/
   
 Employer Sites:
 - https://www.governmentjobs.com/careers/cabq
@@ -25,3 +26,4 @@ Employer Sites:
 - https://unm.csod.com/ux/ats/careersite/18/home?c=unm
 - https://livenation.wd1.myworkdayjobs.com/LNExternalSite
 - https://luminatedata.com/careers/
+- https://www.indeed.com/
